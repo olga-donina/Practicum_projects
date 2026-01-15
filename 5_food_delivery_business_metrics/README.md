@@ -15,7 +15,7 @@
 
 ## SQL Queries
 
-Файл `sql_queries.sql` содержит SQL-запросы для расчёта ключевых метрик:
+Файл `sql_queries_delivery.sql` содержит SQL-запросы для расчёта ключевых метрик:
 - DAU
 - Conversion Rate
 - Average Order Value
